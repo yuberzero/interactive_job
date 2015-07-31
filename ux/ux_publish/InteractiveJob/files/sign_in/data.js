@@ -1,0 +1,2099 @@
+﻿$axure.loadCurrentPage({
+  "url":"sign_in.html",
+  "generationDate":new Date(1438360746134.38),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"Counter",
+"MaxTextFieldLength",
+"InputText"],
+  "page":{
+    "packageId":"21ab957c489f4379a56bbc541bbd4fba",
+    "type":"Axure:Page",
+    "name":"Sign In",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"26e10941fd334888827d70c4bef711c6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"e151ec50e7914f3b8d66b7f61a534585",
+            "location":{
+              "x":0,
+              "y":-9},
+            "size":{
+              "width":360,
+              "height":592}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39b11b0b41344786847ed685c0de4356",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"e151ec50e7914f3b8d66b7f61a534585",
+                "location":{
+                  "x":0,
+                  "y":-9},
+                "size":{
+                  "width":360,
+                  "height":592}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home__guest_/u0.png"}},
+{
+          "id":"0c24411d7ead4cbab91b915bd2b4c2a4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"f3f2ecafb4414760a9b62ad2ad14ba18",
+            "location":{
+              "x":0,
+              "y":-10},
+            "size":{
+              "width":360,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5e34948c8bfb46209fbfbd34b35b5c65",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"f3f2ecafb4414760a9b62ad2ad14ba18",
+                "location":{
+                  "x":0,
+                  "y":-10},
+                "size":{
+                  "width":360,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home__guest_/u2.png"}},
+{
+          "id":"57e1b274725f4eb08a2e60646bfc4628",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xDDFFFFFF,
+              "opacity":0.866666674613953},
+            "baseStyle":"368872e3ec5a4167b833af3e4f52a73b",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFE0E0E0},
+            "location":{
+              "x":0,
+              "y":14},
+            "size":{
+              "width":360,
+              "height":56},
+            "borderWidth":"-1",
+            "outerShadow":{
+              "on":true,
+              "offsetX":0,
+              "offsetY":4,
+              "blurRadius":4,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.23921568627451}}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f8b1dd3568914f36949c3658cfad3eb2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xDDFFFFFF,
+                  "opacity":0.866666674613953},
+                "baseStyle":"368872e3ec5a4167b833af3e4f52a73b",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE0E0E0},
+                "location":{
+                  "x":0,
+                  "y":14},
+                "size":{
+                  "width":360,
+                  "height":56},
+                "borderWidth":"-1",
+                "outerShadow":{
+                  "on":true,
+                  "offsetX":0,
+                  "offsetY":4,
+                  "blurRadius":4,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.23921568627451}}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home__guest_/u4.png"}},
+{
+          "id":"98e8570838fb44da9c8f318b38f4b255",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"d0650ba458184c5dafdf42b83360592f",
+            "location":{
+              "x":0,
+              "y":14},
+            "size":{
+              "width":360,
+              "height":56}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62b29d976b4e4159816902d903ad2596",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"d0650ba458184c5dafdf42b83360592f",
+                "location":{
+                  "x":0,
+                  "y":14},
+                "size":{
+                  "width":360,
+                  "height":56}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home__guest_/u6.png"}},
+{
+          "id":"d8aced896240490fa6bb973b35717c82",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF000000},
+            "location":{
+              "x":0,
+              "y":582},
+            "size":{
+              "width":360,
+              "height":48},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"73b8fe8f66b7444ab0ed3cf4ab1d4cdc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF000000},
+                "location":{
+                  "x":0,
+                  "y":582},
+                "size":{
+                  "width":360,
+                  "height":48},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home__guest_/u8.png"}},
+{
+          "id":"5d36cca4467449c2b13624545ab4a3c5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Tahoma Regular', 'Tahoma'",
+            "fontWeight":"400",
+            "baseStyle":"368872e3ec5a4167b833af3e4f52a73b",
+            "location":{
+              "x":20,
+              "y":30},
+            "size":{
+              "width":59,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6ac8a2e53a9d4a0b92643b62b916dbf0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Tahoma Regular', 'Tahoma'",
+                "fontWeight":"400",
+                "baseStyle":"368872e3ec5a4167b833af3e4f52a73b",
+                "location":{
+                  "x":20,
+                  "y":30},
+                "size":{
+                  "width":59,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"189642a805ec45a5bc38aa1d518260f4",
+          "label":"Divider",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":140},
+            "size":{
+              "width":320,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"306e882dd439468ba56fed41c562ee29",
+              "label":"Off",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"2b6211eb2b6b4e69aea0ddb7dc33c11a",
+                  "label":"",
+                  "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                  "panelIndex":0,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":10},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0x1E000000}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/home__guest_/u16_line.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"6cf5472c513243fbb916bdb566f1ad26",
+              "label":"On",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"5b5ff979023b402791c2787b4551c42c",
+                  "label":"",
+                  "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                  "panelIndex":1,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":10},
+                    "borderWidth":"2",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF009688}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/sign_in/u14_line.png"}},
+{
+                  "id":"a9a8dd7bb3d64af98baf48d8ef0449a8",
+                  "label":"Counter Normal",
+                  "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                  "panelIndex":1,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Roboto Regular', 'Roboto'",
+                    "fontSize":"12px",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0x89000000,
+                      "opacity":0.537254929542542},
+                    "location":{
+                      "x":290,
+                      "y":11},
+                    "size":{
+                      "width":30,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2c18714704d54d9899f97e9020196575",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                      "panelIndex":1,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Roboto Regular', 'Roboto'",
+                        "fontSize":"12px",
+                        "horizontalAlignment":"right",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x89000000,
+                          "opacity":0.537254929542542},
+                        "location":{
+                          "x":290,
+                          "y":11},
+                        "size":{
+                          "width":30,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"d0970056b5b34fc4ba36333a3edd503f",
+              "label":"Warning",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"33ed6ddffb574b508ccfea780a6e770f",
+                  "label":"",
+                  "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                  "panelIndex":2,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":10},
+                    "borderWidth":"2",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFF44336}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/sign_in/u17_line.png"}},
+{
+                  "id":"db3ac9a2e6c74cc486d2bc86562a88b4",
+                  "label":"",
+                  "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                  "panelIndex":2,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"12px",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":0,
+                      "y":10},
+                    "size":{
+                      "width":199,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"8faf7149ea7c48d8834ef966237185e3",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                      "panelIndex":2,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"12px",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":0,
+                          "y":10},
+                        "size":{
+                          "width":199,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"4bb5a81ba8df42f7a59471e2802600f6",
+                  "label":"",
+                  "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                  "panelIndex":2,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'FontAwesome Regular', 'FontAwesome'",
+                    "fontSize":"12px",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":280,
+                      "y":11},
+                    "size":{
+                      "width":40,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"72adeb295f4245d394877e37973120a6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                      "panelIndex":2,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'FontAwesome Regular', 'FontAwesome'",
+                        "fontSize":"12px",
+                        "horizontalAlignment":"right",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":280,
+                          "y":11},
+                        "size":{
+                          "width":40,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"ec131da4e7dd4ff08c535c673deff279",
+              "label":"Length Warning",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"d261375e3387433bbf33e54bee88bd15",
+                  "label":"",
+                  "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                  "panelIndex":3,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":10},
+                    "borderWidth":"2",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFF44336}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/sign_in/u17_line.png"}},
+{
+                  "id":"9f7df908b4274d54a4d66860a41d3365",
+                  "label":"Counter Warning",
+                  "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                  "panelIndex":3,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Roboto Regular', 'Roboto'",
+                    "fontSize":"12px",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFE47272,
+                      "opacity":1},
+                    "location":{
+                      "x":284,
+                      "y":11},
+                    "size":{
+                      "width":36,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"77f6ffee724d45f09924b23c1905a8ce",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"189642a805ec45a5bc38aa1d518260f4",
+                      "panelIndex":3,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Roboto Regular', 'Roboto'",
+                        "fontSize":"12px",
+                        "horizontalAlignment":"right",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFE47272,
+                          "opacity":1},
+                        "location":{
+                          "x":284,
+                          "y":11},
+                        "size":{
+                          "width":36,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"a97b38dca341419c8d3e6fb8929d2b6e",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Tahoma Regular', 'Tahoma'",
+            "fontSize":"16px",
+            "horizontalAlignment":"center",
+            "stateStyles":{
+              "hint":{
+                "fontName":"'Arial Regular', 'Arial'",
+                "fontWeight":"bold",
+                "horizontalAlignment":"center",
+                "baseStyle":"ffe437b28a854796bba8b21ed091a4f7"}},
+            "location":{
+              "x":20,
+              "y":100},
+            "size":{
+              "width":320,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onTextChange":{
+              "description":"OnTextChange",
+              "cases":[{
+                  "description":"Warning<br> (If text on This equals &quot;davis&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"davis",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to Warning",
+                      "panelsToStates":[{
+                          "panelPath":["189642a805ec45a5bc38aa1d518260f4"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":3,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]},
+{
+                  "description":"Counter<br> (Else If length of value of widget This is less than or equals value of MaxTextFieldLength)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"<=",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetValueLength",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetGlobalVariableValue",
+                      "arguments":[{
+                          "exprType":"globalVariableLiteral",
+                          "variableName":"MaxTextFieldLength"}]}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to On",
+                      "panelsToStates":[{
+                          "panelPath":["189642a805ec45a5bc38aa1d518260f4"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set value of Counter equal to length of value of widget This",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"Counter"},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetValueLength",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":true,
+                                    "isFocused":false,
+                                    "isTarget":false}]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set text on Counter Normal equal to &quot;[[Counter]] / [[MaxTextFiel...&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["2c18714704d54d9899f97e9020196575"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Counter]] / [[MaxTextFieldLength]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"var",
+                                    "name":"counter"},
+{
+                                    "sto":"var",
+                                    "name":"maxtextfieldlength"}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Counter Normal",
+                      "objectsToFades":[{
+                          "objectPath":["a9a8dd7bb3d64af98baf48d8ef0449a8"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]},
+{
+                  "description":"Length Warning<br> (Else If length of value of widget This is greater than value of MaxTextFieldLength)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":">",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetValueLength",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetGlobalVariableValue",
+                      "arguments":[{
+                          "exprType":"globalVariableLiteral",
+                          "variableName":"MaxTextFieldLength"}]}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to Length Warning",
+                      "panelsToStates":[{
+                          "panelPath":["189642a805ec45a5bc38aa1d518260f4"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":4,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set value of Counter equal to length of value of widget This",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"Counter"},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetValueLength",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":true,
+                                    "isFocused":false,
+                                    "isTarget":false}]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set text on Counter Warning equal to &quot;[[Counter]] / [[MaxTextFiel...&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["77f6ffee724d45f09924b23c1905a8ce"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Counter]] / [[MaxTextFieldLength]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"var",
+                                    "name":"counter"},
+{
+                                    "sto":"var",
+                                    "name":"maxtextfieldlength"}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Counter Warning",
+                      "objectsToFades":[{
+                          "objectPath":["9f7df908b4274d54a4d66860a41d3365"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]},
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Focus",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to On",
+                      "panelsToStates":[{
+                          "panelPath":["189642a805ec45a5bc38aa1d518260f4"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Counter Normal",
+                      "objectsToFades":[{
+                          "objectPath":["a9a8dd7bb3d64af98baf48d8ef0449a8"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set text on Counter Normal equal to &quot;0 / [[MaxTextFieldLength]]&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["2c18714704d54d9899f97e9020196575"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"0 / [[MaxTextFieldLength]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"var",
+                                    "name":"maxtextfieldlength"}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Lost Focus<br> (If length of value of widget This is greater than &quot;0&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":">",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetValueLength",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"0",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to Off",
+                      "panelsToStates":[{
+                          "panelPath":["189642a805ec45a5bc38aa1d518260f4"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]},
+{
+                  "description":"No Text<br> (Else If length of value of widget This equals &quot;0&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetValueLength",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"0",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Hide Counter Warning,<br>Counter Normal",
+                      "objectsToFades":[{
+                          "objectPath":["9f7df908b4274d54a4d66860a41d3365"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["a9a8dd7bb3d64af98baf48d8ef0449a8"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "placeholderText":"enter your email address"},
+{
+          "id":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+          "label":"Divider",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":209},
+            "size":{
+              "width":320,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"cc20ba923ad84310b90fc08b337b1940",
+              "label":"Off",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"9978f339c46348fc8a6e826a6070bcb3",
+                  "label":"",
+                  "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                  "panelIndex":0,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":10},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0x1E000000}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/home__guest_/u16_line.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"d58f0c21cc2d4a91a956dc4b32a71cca",
+              "label":"On",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"4ae6461849804862860ca36ef81f45f7",
+                  "label":"",
+                  "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                  "panelIndex":1,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":10},
+                    "borderWidth":"2",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF009688}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/sign_in/u14_line.png"}},
+{
+                  "id":"82b02cde7edc479e862eac792b066872",
+                  "label":"Counter Normal",
+                  "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                  "panelIndex":1,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Roboto Regular', 'Roboto'",
+                    "fontSize":"12px",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0x89000000,
+                      "opacity":0.537254929542542},
+                    "location":{
+                      "x":290,
+                      "y":11},
+                    "size":{
+                      "width":30,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7f8a8f0243f34df385837a459d5e5b3f",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                      "panelIndex":1,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Roboto Regular', 'Roboto'",
+                        "fontSize":"12px",
+                        "horizontalAlignment":"right",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x89000000,
+                          "opacity":0.537254929542542},
+                        "location":{
+                          "x":290,
+                          "y":11},
+                        "size":{
+                          "width":30,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"d840507bd65243dc901c67ccb58bf789",
+              "label":"Warning",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"255d12a248da47e88a330062e99e97ab",
+                  "label":"",
+                  "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                  "panelIndex":2,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":10},
+                    "borderWidth":"2",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFF44336}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/sign_in/u17_line.png"}},
+{
+                  "id":"41caadd8946e4657b30698e2b9c619db",
+                  "label":"",
+                  "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                  "panelIndex":2,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"12px",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":0,
+                      "y":10},
+                    "size":{
+                      "width":199,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"948271bbd9684157bf7481bd16915b54",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                      "panelIndex":2,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"12px",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":0,
+                          "y":10},
+                        "size":{
+                          "width":199,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"006336b95ab9401b97437a93b4324341",
+                  "label":"",
+                  "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                  "panelIndex":2,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'FontAwesome Regular', 'FontAwesome'",
+                    "fontSize":"12px",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":280,
+                      "y":11},
+                    "size":{
+                      "width":40,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1e83faade11e41698329c1b019a516b0",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                      "panelIndex":2,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'FontAwesome Regular', 'FontAwesome'",
+                        "fontSize":"12px",
+                        "horizontalAlignment":"right",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFF0000,
+                          "opacity":1},
+                        "location":{
+                          "x":280,
+                          "y":11},
+                        "size":{
+                          "width":40,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}},
+{
+              "id":"d50657ff58f84b2895c5b41873ea9322",
+              "label":"Length Warning",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"bf61590fc6ad4f519627bed186314e21",
+                  "label":"",
+                  "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                  "panelIndex":3,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":320,
+                      "height":10},
+                    "borderWidth":"2",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFF44336}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/sign_in/u17_line.png"}},
+{
+                  "id":"1434d2817b484efaa6453a0ea8766ce4",
+                  "label":"Counter Warning",
+                  "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                  "panelIndex":3,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Roboto Regular', 'Roboto'",
+                    "fontSize":"12px",
+                    "horizontalAlignment":"right",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFE47272,
+                      "opacity":1},
+                    "location":{
+                      "x":284,
+                      "y":11},
+                    "size":{
+                      "width":36,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e277adacd3804408abfeeeb64bd53bf8",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"5a0594c00a7c4f799dc808cdaf9cd0d6",
+                      "panelIndex":3,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Roboto Regular', 'Roboto'",
+                        "fontSize":"12px",
+                        "horizontalAlignment":"right",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFE47272,
+                          "opacity":1},
+                        "location":{
+                          "x":284,
+                          "y":11},
+                        "size":{
+                          "width":36,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"ca1ed71845014e05aaf3f04c03e11c9e",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Tahoma Regular', 'Tahoma'",
+            "fontSize":"12px",
+            "horizontalAlignment":"center",
+            "stateStyles":{
+              "hint":{
+                "fontName":"'Arial Regular', 'Arial'",
+                "fontWeight":"bold",
+                "horizontalAlignment":"center",
+                "baseStyle":"ffe437b28a854796bba8b21ed091a4f7"}},
+            "location":{
+              "x":20,
+              "y":170},
+            "size":{
+              "width":320,
+              "height":39}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onTextChange":{
+              "description":"OnTextChange",
+              "cases":[{
+                  "description":"Warning<br> (If text on This equals &quot;davis&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"davis",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to Warning",
+                      "panelsToStates":[{
+                          "panelPath":["5a0594c00a7c4f799dc808cdaf9cd0d6"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":3,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]},
+{
+                  "description":"Counter<br> (Else If length of value of widget This is less than or equals value of MaxTextFieldLength)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"<=",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetValueLength",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetGlobalVariableValue",
+                      "arguments":[{
+                          "exprType":"globalVariableLiteral",
+                          "variableName":"MaxTextFieldLength"}]}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to On",
+                      "panelsToStates":[{
+                          "panelPath":["5a0594c00a7c4f799dc808cdaf9cd0d6"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set value of Counter equal to length of value of widget This",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"Counter"},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetValueLength",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":true,
+                                    "isFocused":false,
+                                    "isTarget":false}]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set text on Counter Normal equal to &quot;[[Counter]] / [[MaxTextFiel...&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7f8a8f0243f34df385837a459d5e5b3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Counter]] / [[MaxTextFieldLength]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"var",
+                                    "name":"counter"},
+{
+                                    "sto":"var",
+                                    "name":"maxtextfieldlength"}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Counter Normal",
+                      "objectsToFades":[{
+                          "objectPath":["82b02cde7edc479e862eac792b066872"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]},
+{
+                  "description":"Length Warning<br> (Else If length of value of widget This is greater than value of MaxTextFieldLength)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":">",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetValueLength",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetGlobalVariableValue",
+                      "arguments":[{
+                          "exprType":"globalVariableLiteral",
+                          "variableName":"MaxTextFieldLength"}]}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to Length Warning",
+                      "panelsToStates":[{
+                          "panelPath":["5a0594c00a7c4f799dc808cdaf9cd0d6"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":4,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set value of Counter equal to length of value of widget This",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"Counter"},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetValueLength",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":true,
+                                    "isFocused":false,
+                                    "isTarget":false}]}]}]}},
+{
+                      "action":"setFunction",
+                      "description":"Set text on Counter Warning equal to &quot;[[Counter]] / [[MaxTextFiel...&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e277adacd3804408abfeeeb64bd53bf8"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"[[Counter]] / [[MaxTextFieldLength]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"var",
+                                    "name":"counter"},
+{
+                                    "sto":"var",
+                                    "name":"maxtextfieldlength"}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Counter Warning",
+                      "objectsToFades":[{
+                          "objectPath":["1434d2817b484efaa6453a0ea8766ce4"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]},
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Focus",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to On",
+                      "panelsToStates":[{
+                          "panelPath":["5a0594c00a7c4f799dc808cdaf9cd0d6"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":2,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"Show Counter Normal",
+                      "objectsToFades":[{
+                          "objectPath":["82b02cde7edc479e862eac792b066872"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]},
+{
+                      "action":"setFunction",
+                      "description":"Set text on Counter Normal equal to &quot;0 / [[MaxTextFieldLength]]&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7f8a8f0243f34df385837a459d5e5b3f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"0 / [[MaxTextFieldLength]]",
+                                "localVariables":{
+},
+                                "stos":[{
+                                    "sto":"var",
+                                    "name":"maxtextfieldlength"}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Lost Focus<br> (If length of value of widget This is greater than &quot;0&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":">",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetValueLength",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"0",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setPanelState",
+                      "description":"Set Divider to Off",
+                      "panelsToStates":[{
+                          "panelPath":["5a0594c00a7c4f799dc808cdaf9cd0d6"],
+                          "stateInfo":{
+                            "setStateType":"diagram",
+                            "stateNumber":1,
+                            "stateValue":{
+                              "exprType":"stringLiteral",
+                              "value":"1",
+                              "stos":[]},
+                            "loop":false,
+                            "showWhenSet":false,
+                            "options":{
+                              "compress":false}}}]}]},
+{
+                  "description":"No Text<br> (Else If length of value of widget This equals &quot;0&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetValueLength",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"0",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Hide Counter Warning,<br>Counter Normal",
+                      "objectsToFades":[{
+                          "objectPath":["1434d2817b484efaa6453a0ea8766ce4"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["82b02cde7edc479e862eac792b066872"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "placeholderText":"enter your password"},
+{
+          "id":"edee025a67914dbc91e08bf2843646d4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Tahoma Regular', 'Tahoma'",
+            "fontWeight":"400",
+            "baseStyle":"5f3897ac85be4242b7b1516e72d39bfb",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF0099FF},
+            "location":{
+              "x":20,
+              "y":461},
+            "size":{
+              "width":320,
+              "height":36},
+            "outerShadow":{
+              "on":true,
+              "offsetX":0,
+              "offsetY":2,
+              "blurRadius":2,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.23921568627451}}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"372c47fe22ac438c955c6bc7c3a0a044",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Tahoma Regular', 'Tahoma'",
+                "fontWeight":"400",
+                "baseStyle":"5f3897ac85be4242b7b1516e72d39bfb",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF},
+                "location":{
+                  "x":20,
+                  "y":461},
+                "size":{
+                  "width":320,
+                  "height":36},
+                "outerShadow":{
+                  "on":true,
+                  "offsetX":0,
+                  "offsetY":2,
+                  "blurRadius":2,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.23921568627451}}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home__guest_/u12.png"}},
+{
+          "id":"62e7587ad96a41ffb7648552193b7ae5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Tahoma Regular', 'Tahoma'",
+            "fontWeight":"400",
+            "baseStyle":"5f3897ac85be4242b7b1516e72d39bfb",
+            "location":{
+              "x":20,
+              "y":240},
+            "size":{
+              "width":320,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8304bba35b1a499580624bad0d9da9a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Tahoma Regular', 'Tahoma'",
+                "fontWeight":"400",
+                "baseStyle":"5f3897ac85be4242b7b1516e72d39bfb",
+                "location":{
+                  "x":20,
+                  "y":240},
+                "size":{
+                  "width":320,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/sign_in/u42.png"}},
+{
+          "id":"5ca7cec3d82545198ddcd418b7a0ed62",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Tahoma Regular', 'Tahoma'",
+            "fontWeight":"400",
+            "baseStyle":"5f3897ac85be4242b7b1516e72d39bfb",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF6666},
+            "location":{
+              "x":20,
+              "y":516},
+            "size":{
+              "width":320,
+              "height":36},
+            "outerShadow":{
+              "on":true,
+              "offsetX":0,
+              "offsetY":2,
+              "blurRadius":2,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.23921568627451}}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1d831af48def4a5ca85ad4927ed46660",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Tahoma Regular', 'Tahoma'",
+                "fontWeight":"400",
+                "baseStyle":"5f3897ac85be4242b7b1516e72d39bfb",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF6666},
+                "location":{
+                  "x":20,
+                  "y":516},
+                "size":{
+                  "width":320,
+                  "height":36},
+                "outerShadow":{
+                  "on":true,
+                  "offsetX":0,
+                  "offsetY":2,
+                  "blurRadius":2,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.23921568627451}}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home__guest_/u14.png"}},
+{
+          "id":"1b162567862c4ddfae4954ed2b81e41f",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":417},
+            "size":{
+              "width":320,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0x1E000000}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/home__guest_/u16_line.png"}},
+{
+          "id":"80d657c62de9426b87024f997bbfe5e1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "baseStyle":"5957d4d09c5747028914e3fbde31ee7b",
+            "location":{
+              "x":97,
+              "y":286},
+            "size":{
+              "width":169,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a97abfc86e57468bbb8d24d211219d76",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"5957d4d09c5747028914e3fbde31ee7b",
+                "location":{
+                  "x":97,
+                  "y":286},
+                "size":{
+                  "width":169,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "26e10941fd334888827d70c4bef711c6":{
+      "scriptId":"u0"},
+    "39b11b0b41344786847ed685c0de4356":{
+      "scriptId":"u1"},
+    "0c24411d7ead4cbab91b915bd2b4c2a4":{
+      "scriptId":"u2"},
+    "5e34948c8bfb46209fbfbd34b35b5c65":{
+      "scriptId":"u3"},
+    "57e1b274725f4eb08a2e60646bfc4628":{
+      "scriptId":"u4"},
+    "f8b1dd3568914f36949c3658cfad3eb2":{
+      "scriptId":"u5"},
+    "98e8570838fb44da9c8f318b38f4b255":{
+      "scriptId":"u6"},
+    "62b29d976b4e4159816902d903ad2596":{
+      "scriptId":"u7"},
+    "d8aced896240490fa6bb973b35717c82":{
+      "scriptId":"u8"},
+    "73b8fe8f66b7444ab0ed3cf4ab1d4cdc":{
+      "scriptId":"u9"},
+    "5d36cca4467449c2b13624545ab4a3c5":{
+      "scriptId":"u10"},
+    "6ac8a2e53a9d4a0b92643b62b916dbf0":{
+      "scriptId":"u11"},
+    "189642a805ec45a5bc38aa1d518260f4":{
+      "scriptId":"u12"},
+    "2b6211eb2b6b4e69aea0ddb7dc33c11a":{
+      "scriptId":"u13"},
+    "5b5ff979023b402791c2787b4551c42c":{
+      "scriptId":"u14"},
+    "a9a8dd7bb3d64af98baf48d8ef0449a8":{
+      "scriptId":"u15"},
+    "2c18714704d54d9899f97e9020196575":{
+      "scriptId":"u16"},
+    "33ed6ddffb574b508ccfea780a6e770f":{
+      "scriptId":"u17"},
+    "db3ac9a2e6c74cc486d2bc86562a88b4":{
+      "scriptId":"u18"},
+    "8faf7149ea7c48d8834ef966237185e3":{
+      "scriptId":"u19"},
+    "4bb5a81ba8df42f7a59471e2802600f6":{
+      "scriptId":"u20"},
+    "72adeb295f4245d394877e37973120a6":{
+      "scriptId":"u21"},
+    "d261375e3387433bbf33e54bee88bd15":{
+      "scriptId":"u22"},
+    "9f7df908b4274d54a4d66860a41d3365":{
+      "scriptId":"u23"},
+    "77f6ffee724d45f09924b23c1905a8ce":{
+      "scriptId":"u24"},
+    "a97b38dca341419c8d3e6fb8929d2b6e":{
+      "scriptId":"u25"},
+    "5a0594c00a7c4f799dc808cdaf9cd0d6":{
+      "scriptId":"u26"},
+    "9978f339c46348fc8a6e826a6070bcb3":{
+      "scriptId":"u27"},
+    "4ae6461849804862860ca36ef81f45f7":{
+      "scriptId":"u28"},
+    "82b02cde7edc479e862eac792b066872":{
+      "scriptId":"u29"},
+    "7f8a8f0243f34df385837a459d5e5b3f":{
+      "scriptId":"u30"},
+    "255d12a248da47e88a330062e99e97ab":{
+      "scriptId":"u31"},
+    "41caadd8946e4657b30698e2b9c619db":{
+      "scriptId":"u32"},
+    "948271bbd9684157bf7481bd16915b54":{
+      "scriptId":"u33"},
+    "006336b95ab9401b97437a93b4324341":{
+      "scriptId":"u34"},
+    "1e83faade11e41698329c1b019a516b0":{
+      "scriptId":"u35"},
+    "bf61590fc6ad4f519627bed186314e21":{
+      "scriptId":"u36"},
+    "1434d2817b484efaa6453a0ea8766ce4":{
+      "scriptId":"u37"},
+    "e277adacd3804408abfeeeb64bd53bf8":{
+      "scriptId":"u38"},
+    "ca1ed71845014e05aaf3f04c03e11c9e":{
+      "scriptId":"u39"},
+    "edee025a67914dbc91e08bf2843646d4":{
+      "scriptId":"u40"},
+    "372c47fe22ac438c955c6bc7c3a0a044":{
+      "scriptId":"u41"},
+    "62e7587ad96a41ffb7648552193b7ae5":{
+      "scriptId":"u42"},
+    "8304bba35b1a499580624bad0d9da9a4":{
+      "scriptId":"u43"},
+    "5ca7cec3d82545198ddcd418b7a0ed62":{
+      "scriptId":"u44"},
+    "1d831af48def4a5ca85ad4927ed46660":{
+      "scriptId":"u45"},
+    "1b162567862c4ddfae4954ed2b81e41f":{
+      "scriptId":"u46"},
+    "80d657c62de9426b87024f997bbfe5e1":{
+      "scriptId":"u47"},
+    "a97abfc86e57468bbb8d24d211219d76":{
+      "scriptId":"u48"}}});
