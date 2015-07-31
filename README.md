@@ -5,7 +5,8 @@
 # /doc - any document must be here
 # /screenshot - contain screenshots of each page of the app
 # /src - source code
-# /usability_test - contain test results of usabilityhub (5 secs test, click test)
 # /ux - contain ui mockup axure file
-# /ux_publish - mockup published to html, to share with your friends (must host in web http server)
+# /ux/ux_publish - mockup published to html, to share with your friends (must host in web http server)
+# /ux/ux_lib - axure library
+# /ux/ux_test - contain test results of usabilityhub (5 secs test, click test)
 
