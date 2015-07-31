@@ -1,4 +1,4 @@
-# PROJECT: INTERACTIVE JOBE
+# PROJECT: INTERACTIVE JOB
 # Sponsors: http://vietnamworks.com, http://techlooper.com/
 
 # Folder Structure
